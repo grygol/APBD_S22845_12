@@ -1,0 +1,1 @@
+﻿![Diagram bazy danych](Mailing_system-2022-06-23_19-04.png)
